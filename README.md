@@ -15,3 +15,5 @@ Drowsiness Detection based on the Eye Aspect Ratio. For detection first it searc
 Can save from road car accident by turning on the alarm. 
 
 **#ArtificialIntelligence #MachineLearning #AI #ML #FutureisHere #OpenCV #DeepLearning #Python #CNN #DareToBeDigital 
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6440522469840379904" height="978" width="504" frameborder="0" allowfullscreen=""></iframe>
